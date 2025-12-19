@@ -343,14 +343,14 @@
                 <div class="terminal-line">> Personal files: COPIED</div>
                 <div class="terminal-line">> 🔥 SPARKY TECH owns your system now! 🔥</div>
                 <div class="terminal-line">> </div>
-                <div class="terminal-line">> JUST KIDDING! This was a PRANK! 😂</div>
-                <div class="terminal-line">> No data was actually accessed or stolen.</div>
+                <div class="terminal-line">> JUST KIDDING! hack your friend! 😂</div>
+                <div class="terminal-line">> i have hack you.</div>
                 <div class="terminal-line">> Your device is completely safe.</div>
                 <div class="terminal-line">> Learn cybersecurity with SPARKY TECH!</div>
             </div>
             
             <button class="reset-btn" id="resetBtn">
-                PRANK A FRIEND
+                i have hack you
             </button>
             
             <p style="font-size: 1.2rem; margin-top: 20px; color: #00ff00;">
